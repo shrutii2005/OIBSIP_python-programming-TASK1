@@ -1,4 +1,4 @@
-OIBSIP_python-programming-TASK1
+# OIBSIP_python-programming-TASK1
 🔐 Random Password Generator
 A simple and customizable password generator built with Python. Choose between a command-line interface (CLI) or a graphical user interface (GUI) using Tkinter.
 
